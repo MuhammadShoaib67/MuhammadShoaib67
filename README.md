@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/top-banner-v5.jpg" alt="Muhammad Shoaib — Tool360 Creator, Website Builder, eBay and Etsy Expert" width="100%"/>
+<img src="assets/top-banner-v5.jpg" alt="Muhammad Shoaib — Tools360Pro Creator, Website Builder, eBay and Etsy Expert" width="100%"/>
 
 <img src="assets/divider.svg" width="100%" height="6" alt=""/>
 
@@ -15,7 +15,7 @@
 
 **What I do:** Listing Optimization · Full Store Setup · Store Audit · Website Building
 
-<a href="https://muhammadshoaib67.github.io/tool360/"><img src="assets/tool360-preview-dark.jpg" alt="Tool360 — 38 free online tools, dark theme" width="92%"/></a>
+<a href="https://muhammadshoaib67.github.io/tools360pro/"><img src="assets/tools360pro-preview-dark.jpg" alt="Tools360Pro — 38 free online tools, dark theme" width="92%"/></a>
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
@@ -26,19 +26,19 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923422625439)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helloshoaib01@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/shoaibcreates67)
-[![Tool360](https://img.shields.io/badge/Tool360-Live%20Site-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadshoaib67.github.io/tool360/)
+[![Tools360Pro](https://img.shields.io/badge/Tools360Pro-Live%20Site-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadshoaib67.github.io/tools360pro/)
 [![Boost360Pro](https://img.shields.io/badge/Boost360Pro-Agency-062D71?style=for-the-badge&logo=rocket&logoColor=white)](https://boost360-website.vercel.app)
 
 <img src="assets/divider.svg" width="100%" height="6" alt=""/>
 
 ## 🚀 Featured Projects
 
-### 🧰 Tool360 — 38 Free Online Tools
+### 🧰 Tools360Pro — 38 Free Online Tools
 
 PDF · Image · Text · Converters · Calculators · Developer · Generators — every tool runs 100% in the browser. No sign-up, files never leave your device.
 
-[![Live Site](https://img.shields.io/badge/Visit%20Live%20Site-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadshoaib67.github.io/tool360/)
-[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadShoaib67/tool360)
+[![Live Site](https://img.shields.io/badge/Visit%20Live%20Site-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadshoaib67.github.io/tools360pro/)
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadShoaib67/tools360pro)
 
 ### 📈 Boost360Pro — E-Commerce Growth Agency
 
