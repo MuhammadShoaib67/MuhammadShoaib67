@@ -88,14 +88,6 @@ const shoaib = {
 
 🔗 **Live:** https://muhammadshoaib67.github.io/shoaib-portfolio/ · 📦 **Code:** https://github.com/MuhammadShoaib67/shoaib-portfolio
 
-# 💼 Services & Pricing
-
-| Service | Price |
-|---|---|
-| **Listing Optimization Pack (10 listings)** | **$40** |
-| **Full Store Setup** | **$150** |
-| **10-Point Store Audit** | **FREE** |
-
 # 📊 GitHub Analytics
 
 <div align="center">
