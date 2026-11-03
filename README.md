@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=192&section=header&text=Muhammad%20Shoaib&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=eBay%20%26%20Etsy%20Expert%20%7C%20Premium%20Website%20Builder&descAlignY=54&descSize=17" width="100%"/>
+<img src="assets/header-banner.png" width="100%" alt="Muhammad Shoaib — eBay & Etsy Expert | Premium Website Builder"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=0C5FB1&center=true&vCenter=true&width=660&lines=Founder+%40+Boost360Pro+%F0%9F%9A%80;eBay+%26+Etsy+SEO+Expert+%F0%9F%9B%92;Premium+Website+Builder+%F0%9F%8C%90;Free+Web+Tools+Creator+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 
