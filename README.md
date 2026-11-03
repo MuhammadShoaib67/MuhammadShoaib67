@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/top-banner-v4.jpg" width="100%" alt="Muhammad Shoaib — eBay & Etsy Expert | Website Builder"/>
+<img src="assets/top-banner-v5.jpg" width="100%" alt="Muhammad Shoaib — eBay & Etsy Expert | Website Builder"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=0C5FB1&center=true&vCenter=true&width=660&lines=Founder+%40+Boost360Pro+%F0%9F%9A%80;eBay+%26+Etsy+SEO+Expert+%F0%9F%9B%92;Premium+Website+Builder+%F0%9F%8C%90;Free+Web+Tools+Creator+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 
