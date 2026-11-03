@@ -10,25 +10,19 @@
 <tr>
 <td width="55%" valign="top">
 
-```js
-const shoaib = {
-  name: "Muhammad Shoaib",
-  role: "eBay & Etsy Expert | Website Builder",
-  location: "Pakistan",
-  founder: "Boost360Pro",
-  tagline: "Complete E-Commerce Growth",
-  building: [
-    "Tool360 — 38 free online tools",
-    "Premium websites for clients"
-  ],
-  services: [
-    "Listing Optimization",
-    "Full Store Setup",
-    "Store Audit"
-  ],
-  openToWork: true
-};
-```
+### 👋 Hi, I'm Muhammad Shoaib
+
+I help eBay & Etsy sellers grow with listings that rank, convert and sell — and I build fast, premium websites for brands and businesses.
+
+| | |
+|---|---|
+| 👤 **Name** | Muhammad Shoaib |
+| 💼 **Role** | eBay & Etsy Expert · Website Builder |
+| 📍 **Location** | Pakistan |
+| 🚀 **Founder** | **Boost360Pro** — Complete E-Commerce Growth |
+| 🔨 **Building** | Tool360 — 38 free online tools · Premium client websites |
+| 🛠️ **Services** | Listing Optimization · Full Store Setup · Store Audit |
+| ✅ **Status** | Open to work |
 
 </td>
 <td width="45%" valign="top">
