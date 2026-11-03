@@ -33,7 +33,7 @@ const shoaib = {
 </td>
 <td width="45%" valign="top">
 
-<img src="assets/tool360-preview.jpg" alt="Tool360 — free online tools by Muhammad Shoaib" width="100%"/>
+<img src="assets/tool360-preview-dark.jpg" alt="Tool360 — free online tools by Muhammad Shoaib" width="100%"/>
 
 </td>
 </tr>
