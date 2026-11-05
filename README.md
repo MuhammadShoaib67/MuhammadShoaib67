@@ -15,7 +15,7 @@
 
 **What I do:** Listing Optimization · Full Store Setup · Store Audit · Website Building
 
-<a href="https://muhammadshoaib67.github.io/tools360pro/"><img src="assets/tools360pro-preview-dark.jpg" alt="Tools360Pro — 38 free online tools, dark theme" width="92%"/></a>
+<a href="https://tools360pro.com/"><img src="assets/tools360pro-preview-dark.jpg" alt="Tools360Pro — 38 free online tools, dark theme" width="92%"/></a>
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
@@ -26,7 +26,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923422625439)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helloshoaib01@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/shoaibcreates67)
-[![Tools360Pro](https://img.shields.io/badge/Tools360Pro-Live%20Site-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadshoaib67.github.io/tools360pro/)
+[![Tools360Pro](https://img.shields.io/badge/Tools360Pro-Live%20Site-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tools360pro.com/)
 [![Boost360Pro](https://img.shields.io/badge/Boost360Pro-Agency-062D71?style=for-the-badge&logo=rocket&logoColor=white)](https://boost360-website.vercel.app)
 
 <img src="assets/divider.svg" width="100%" height="6" alt=""/>
@@ -37,7 +37,7 @@
 
 PDF · Image · Text · Converters · Calculators · Developer · Generators — every tool runs 100% in the browser. No sign-up, files never leave your device.
 
-[![Live Site](https://img.shields.io/badge/Visit%20Live%20Site-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadshoaib67.github.io/tools360pro/)
+[![Live Site](https://img.shields.io/badge/Visit%20Live%20Site-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tools360pro.com/)
 [![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadShoaib67/tools360pro)
 
 ### 📈 Boost360Pro — E-Commerce Growth Agency
