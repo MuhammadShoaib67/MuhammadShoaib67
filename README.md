@@ -15,7 +15,7 @@
 
 **What I do:** Listing Optimization · Full Store Setup · Store Audit · Website Building
 
-<a href="https://tools360pro.com/"><img src="assets/tools360pro-preview-dark.jpg" alt="Tools360Pro — 57 free online tools, dark theme" width="92%"/></a>
+<a href="https://tools360pro.com/"><img src="assets/tools360pro-preview-dark.jpg" alt="Tools360Pro — 58 free online tools, dark theme" width="92%"/></a>
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
